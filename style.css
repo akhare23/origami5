@@ -6,9 +6,11 @@ h2{
 }
 .bodyimg{
     background-image:url("images/bg.jpg") ;
+    border:solid 5px gray;
 }
 .header{
     background-color: brown;
+    border:solid 5px gray
 }
 .items{
     display:flex;
@@ -17,21 +19,40 @@ h2{
     border-bottom-color: orange;
     border-bottom:solid 10px orange;
     background-color: cadetblue;
+    border: solid 10px #00008F
 
 }
 .item{
     background-color: burlywood;
+    border:dashed #808080
 }
 .item2{
     background-color:burlywood;
+    border:dashed #808080
 }
 .item3{
     background-color:burlywood;
+    border:dashed #808080
 }
-.facts{
-    background-color: cadetblue;
+.items hr{
+    border: solid black
+}
+.facts1{
+    position: relative;
+    left:20px;
+    margin:20px;
+    border: dashed #FFFFFF
 }
 .facts2{
-    background-color:cadetblue
+    position: relative;
+    left:20px;
+    margin:20px;
+    border: dashed #FFFFFF
+}
+.facts3{
+    position: relative;
+    left:20px;
+    margin:20px;
+    border: dashed #FFFFFF
 }
 
