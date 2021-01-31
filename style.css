@@ -22,37 +22,23 @@ h2{
     border: solid 10px #00008F
 
 }
-.item{
+.items img{
     background-color: burlywood;
-    border:dashed #808080
-}
-.item2{
-    background-color:burlywood;
-    border:dashed #808080
-}
-.item3{
-    background-color:burlywood;
     border:dashed #808080
 }
 .items hr{
     border: solid black
 }
-.facts1{
-    position: relative;
-    left:20px;
-    margin:20px;
+.facts ul{
+   position:relative;
+   left:220px;
+    bottom:200px;
     border: dashed #FFFFFF
 }
-.facts2{
-    position: relative;
-    left:20px;
-    margin:20px;
-    border: dashed #FFFFFF
+.facts p{
+    position:relative;
+    left:220px;
+    bottom:200px;
 }
-.facts3{
-    position: relative;
-    left:20px;
-    margin:20px;
-    border: dashed #FFFFFF
-}
+
 
