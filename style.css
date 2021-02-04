@@ -1,3 +1,6 @@
+.menu a:hover{
+    color:green;
+}
 h1{
     color:aqua
 }
@@ -29,16 +32,13 @@ h2{
 .items hr{
     border: solid black
 }
+
 .facts ul{
-   position:relative;
-   left:220px;
-    bottom:200px;
     border: dashed #FFFFFF
 }
-.facts p{
-    position:relative;
-    left:220px;
-    bottom:200px;
+
+.items img:hover{
+    transform:scale(1.2);
 }
 
 
